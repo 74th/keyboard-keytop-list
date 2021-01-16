@@ -67,3 +67,7 @@ space:`␣` tab:`↹,⇥` return:`↵,⏎` backspace:`⌫,⟵` delete:`⌦` esca
 ### marks
 
 print screen:`⎙` scroll lock:`⇳` pause:`⎉` break:`⎊` sleep:`☾` menu:`▤,☰,𝌆`
+
+## Japanese IME Keys
+
+`英数` `かな` `無変換` `変換` `カタカナひらがな` `全角半角`
