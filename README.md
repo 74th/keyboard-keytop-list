@@ -64,7 +64,7 @@ space:`␣` tab:`↹,⇥` return:`↵,⏎` backspace:`⌫,⟵` delete:`⌦` esca
 
 ### marks
 
-print screen:`⎙` scroll lock:`⇳` pause:`⎉` break:`⎊` sleep:`☾` menu:`▤,☰,𝌆`
+print screen:`⎙` scroll lock:`⇳` pause:`⎉` break:`⎊` eject:`⏏` sleep:`☾` menu:`▤,☰,𝌆`
 
 ## Japanese IME Keys
 
